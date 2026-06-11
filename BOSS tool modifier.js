@@ -13,11 +13,7 @@
     document.addEventListener('DOMContentLoaded', startUp())
 
     const bossToolReasons = {
-        'US' : 'Do not reinstate unless the Seller has provided a POA. See TT [ENTER_TICKET_ID]  for details - if trigger ticket is closed, please cut a ticket using this quicklink for consideration for reinstatement: https://tt.amazon.com/quicklink/Q001060914',
-        'UK' : 'Do not reinstate unless the Seller has provided a POA. See TT [ENTER_TICKET_ID]  for details - if trigger ticket is closed, please cut a ticket using this quicklink for consideration for reinstatement: https://tt.amazon.com/quicklink/Q001060353',
-        'EG' : 'Do not reinstate unless the Seller has provided a POA. See TT [ENTER_TICKET_ID]  for details - if trigger ticket is closed, please cut a ticket using this quicklink for consideration for reinstatement: https://tt.amazon.com/quicklink/Q001311488',
-        'AE' : 'Do not reinstate unless the Seller has provided a POA. See TT [ENTER_TICKET_ID]  for details - if trigger ticket is closed, please cut a ticket using this quicklink for consideration for reinstatement: https://tt.amazon.com/quicklink/Q001060182',
-        'SA' : 'Do not reinstate unless the Seller has provided a POA. See TT [ENTER_TICKET_ID]  for details - if trigger ticket is closed, please cut a ticket using this quicklink for consideration for reinstatement: https://tt.amazon.com/quicklink/Q001311487',
+        //sensitive info
     }
 
     function startUp() {
